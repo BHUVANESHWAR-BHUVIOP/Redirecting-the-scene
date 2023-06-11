@@ -34,7 +34,7 @@ Click the Build and run button in the Build settings and run the scene.
 The Sphere after touching the cube it will disappeared and Press the key [R] the redircting to the new scene that is page2.
 
 ## Program:
-NAME : BHUVANESHWAR V</BR
+NAME : BHUVANESHWAR V</BR>
 REG NO : 212221240009
 ```
 using System.Collections;
